@@ -1,1 +1,23 @@
+Enter the number of triangles: 
+2
+Enter the base, altitude of a triangle:
+2 3
+Enter the base, altitude of a triangle:
+4 6
+Smallest among 2.0, 3.0 and
+4.0, 6.0
+is
+triangle with base = 2.0 and altitude = 3.0 having area = 3.0
 
+
+Enter the number of triangles: 
+2
+Enter the base, altitude of a triangle:
+4 5
+Enter the base, altitude of a triangle:
+23
+1
+Smallest among 4.0, 5.0 and
+23.0, 1.0
+is
+triangle with base = 4.0 and altitude = 5.0 having area = 10.0
