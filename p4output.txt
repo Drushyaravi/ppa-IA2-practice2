@@ -1,1 +1,12 @@
+Enter the length of the array:
+5
+Enter all values of the array:
+1 2 7 8 122
+Sum of composite number: 130
 
+
+Enter the length of the array:
+5
+Enter all values of the array:
+1 2 7 8 12
+Sum of composite number: 20
