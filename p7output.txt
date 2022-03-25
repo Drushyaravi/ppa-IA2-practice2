@@ -1,1 +1,8 @@
+Enter the base, altitude of a triangle:
+3 5
+The area of triangle with base=3.000 and altitud=5.000 is 7.500
 
+
+Enter the base, altitude of a triangle:
+4 3
+The area of triangle with base=4.000 and altitud=3.000 is 6.000
