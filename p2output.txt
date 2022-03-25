@@ -1,1 +1,4 @@
-
+Enter the value a:3
+Enter the value a:4
+Enter the value a:5
+scalene
