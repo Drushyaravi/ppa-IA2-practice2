@@ -14,7 +14,7 @@ void output(float area)
 {
   printf ("The area of the Triangle is %f:", area);
 }
-float main ()
+int main ()
 {
   float Base, Height, area;
   input (&Base, &Height);
